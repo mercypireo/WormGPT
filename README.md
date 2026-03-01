@@ -7,3 +7,4 @@ Cyberpunk-inspired WormGPT UI • Lightning-fast uncensored-style AI chat • Bu
 - 🌐 Multi-language
 - 💻 Exploit Coding & Deep Analysis
 - 🧠 Code Expert
+This is for educational purposes only
